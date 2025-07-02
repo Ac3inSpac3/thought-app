@@ -1,1 +1,1 @@
-# thoughti-pp
+# thought-app
